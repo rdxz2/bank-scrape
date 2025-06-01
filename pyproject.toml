@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "bank-scrape"
+name = "rdxz2-bank-scrape"
 version = "0.0.1"
 authors = [
   { name="Richard Dharmawan", email="richard.dharmawan@gmail.com" },
